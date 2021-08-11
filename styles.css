@@ -162,12 +162,13 @@ small{
 
 .quick-links ul li .fa{
     font-size: 2em;
-    color: #fff;
+    color: #141a32;
 }
 
 .quick-links ul li p{
     margin-top: 25px;
-    color: #fff;
+    color: #141a32;
+    font-weight: 700;
     font-size: .9em;
 }
 
